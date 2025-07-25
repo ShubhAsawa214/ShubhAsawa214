@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhasawa214" alt="shubhasawa214" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Learning Automation tools**
 
 - 🌱 I’m currently learning **Spring boot , DevOps**
 
